@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on several MVP
+- 🔭 I’m currently working on several MVP for diggi.tize GmbH (Hamburg, Germany), www.diggitize.com
 - 🌱 I’m currently learning SQL, Python
 - 👯 I’m looking to collaborate on several platforms
 - 🤔 I’m looking for help with JS, React, HTML & CSS, communication, public relations, video & audio broadcasting
