@@ -13,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: I started as a volunteer firefighter in age of 47
 
+# You find me @
+- Lat, Long 53.5700145,9.9511788
+
+## 01100100 01101001 01100111 01100111 01101001 01110100 01101001 01111010 01100101
+## -.. .. --. --. .. - .. --.. .
