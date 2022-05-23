@@ -1,6 +1,6 @@
-### Digital Evangelist & Full Stack Developer Carsten Hennig 👋
+# Digital Evangelist & Full Stack Developer Carsten Hennig 👋
 
-# **CarstenHennig/carstenhennig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **CarstenHennig/carstenhennig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
