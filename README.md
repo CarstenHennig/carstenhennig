@@ -9,8 +9,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on several MVP for diggi.tize GmbH (Hamburg, Germany), www.diggitize.com
-- 🌱 I’m currently learning SQL, PHP and Python
+- 🔭 I’m currently working on #SAP integration excellences for whitepaper.id GmbH (Hamburg & Hanover, Germany), www.whitepaper-id.com
+- 🌱 I’m currently learning Svelte, Angular, SQL, PHP and Python
 - 👯 I’m looking to collaborate on several platforms
 - 🤔 I’m looking for help with JS, React, HTML & CSS, communication, public relations, video & audio broadcasting
 - 💬 Ask me about editing and managing digital media platforms
