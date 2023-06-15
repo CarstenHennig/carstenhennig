@@ -9,10 +9,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on #SAP integration excellences for whitepaper.id GmbH (Hamburg & Hanover, Germany), www.whitepaper-id.com
-- 🌱 I’m currently learning Svelte, Angular, SQL, PHP and Python
+- 🔭 I’m currently studying Data Analytics at Turing College and Data Science at TechLabs Hamburg (in a summer term) 
+- 🌱 I’m currently working with Svelte, React, SQL, PHP and Python
 - 👯 I’m looking to collaborate on several platforms
-- 🤔 I’m looking for help with JS, React, HTML & CSS, communication, public relations, video & audio broadcasting
+- 🤔 I’m looking for help with JS, TS, React, HTML & CSS, Svelte, Python, communication, public relations, video & audio broadcasting
 - 💬 Ask me about editing and managing digital media platforms
 - 📫 How to reach me: https://about.me/carsten.hennig, +49 176 50326719, ch@digitalevangelists.de
 - 😄 Pronouns: he / him
